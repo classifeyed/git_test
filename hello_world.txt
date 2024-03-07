@@ -1,0 +1,2 @@
+###Day100ofcoding
+Learning Odin Project shtuffs
